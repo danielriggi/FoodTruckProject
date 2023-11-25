@@ -14,7 +14,8 @@ The Food Truck project allows users to input and rate up to five food trucks. Us
     ```
 
 2. **Compile and Run:**
-    ```javac com/skilldistillery/foodtruck/app/FoodTruckApp.java com/skilldistillery/foodtruck/entities/FoodTruck.java
+    ```
+    javac com/skilldistillery/foodtruck/app/FoodTruckApp.java com/skilldistillery/foodtruck/entities/FoodTruck.java
     java -cp . com.skilldistillery.foodtruck.app.FoodTruckApp
     ```
     Follow the on-screen instructions to input the name, food type, and rating for up to five food trucks. Follow the menu options to get details about the food trucks entered. 
